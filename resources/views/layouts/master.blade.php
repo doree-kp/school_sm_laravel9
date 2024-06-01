@@ -177,7 +177,7 @@
 		{{-- content page --}}
         @yield('content')
         <footer>
-            <p>Copyright © 2022 Soeng Souy.</p>
+            <p>Copyright © 2024 David Af</p>
         </footer>
     
     </div>

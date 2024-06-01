@@ -35,7 +35,7 @@
                         <a class="nav-link" href="social-links.html">Social Links</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="seo-settings.html">SEO Settings</a>
+                        <a class="nav-link" href="seo-settings.html">Settings</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="others-settings.html">Others</a>
